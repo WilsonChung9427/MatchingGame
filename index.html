@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Number Matching Game</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <header class="header">
+        <h1>Number Matching Game</h1>
+        <p class="subtitle">Can you match all of them?</p>
+        <section class="gameInfo">
+            <p> Match all pairs of numbers to win! Choose a mode below:</p>
+        </section>
+    </header>
+
+    <main class="container">
+
+        <section class="controls">
+            <div class="topControls">
+                <button id="restartGame">🔄 Restart Game</button>
+            </div>
+        </section>
+
+        <section id="game-area">
+            <div id="game-board" class="game-board"></div>
+            <div id="message" class="message hidden"></div>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
