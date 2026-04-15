@@ -29,6 +29,7 @@ Win the game when all cards are matched 🎉
 
 🔄 Controls
 Restart Game Button → Resets the board and starts a new game
+
 📂 Project Structure
 project-folder/
 │── index.html
