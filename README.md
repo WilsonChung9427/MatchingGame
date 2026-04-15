@@ -13,10 +13,12 @@ This project demonstrates core front-end development skills using HTML, CSS, and
 🔄 Restart button to reset the game
 🎉 “You Win!” alert when all matches are found
 🎨 Clean and responsive UI
+
 🛠️ Technologies Used
 HTML5
 CSS3
 JavaScript (Vanilla JS)
+
 🎯 How to Play
 Click on any card to flip it
 Click a second card to try and find a match
@@ -24,6 +26,7 @@ If the cards match, they stay revealed
 If they don’t match, they flip back after a short delay
 Continue until all pairs are matched
 Win the game when all cards are matched 🎉
+
 🔄 Controls
 Restart Game Button → Resets the board and starts a new game
 📂 Project Structure
@@ -32,20 +35,6 @@ project-folder/
 │── style.css
 │── script.js
 │── README.md
-▶️ How to Run the Project
-
-Clone the repository:
-
-git clone https://github.com/your-username/your-repo-name.git
-Open the project folder
-Open index.html in your browser
-💡 Future Improvements
-⏱️ Add a timer
-📊 Track number of moves
-🎚️ Difficulty levels (easy/medium/hard)
-🎵 Sound effects
-🖼️ Replace numbers with images
-👨‍💻 Author
 
 Wilson Chung
 
